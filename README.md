@@ -1,12 +1,15 @@
 ![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Daniel Garrido Muros</h1>
 
+Desarrollador apasionado por la tecnología, estudiante de Desarrollo de Aplicaciones Web (DAW) en el Instituto IES Luis Vives, con experiencia en backend utilizando Laravel, PHP, y bases de datos como PostgreSQL y MongoDB, así como en frontend con Vue.js. Actualmente, me encuentro trabajando en la migración de un e-commerce de jQuery a Vue.js, desarrollando plugins y optimizando un e-commerce basado en WordPress y WooCommerce para mejorar su rendimiento y funcionalidad.
 
-Mi nombre es [Danniellgm03](https://github.com/Danniellgm03), estudiante de Desarrollo de Aplicaciones Web (DAW) en el Instituto IES Luis Vives. Actualmente, me encuentro inmerso en el fascinante mundo de Nest.js, ¡aprendiendo y construyendo cosas increíbles!
+Como proyecto de fin de grado, he desarrollado una aplicación completa, integrando herramientas como Pinia, Vue Router, i18n, PrimeVue, Docker, Laravel, PostgreSQL y MongoDB. Además, me apasiona implementar pruebas automatizadas para garantizar la calidad del código y mejorar continuamente los procesos de desarrollo.
+
+Me destaco por mi capacidad de adaptación, aprendizaje rápido y compromiso con la excelencia. Busco colaborar en proyectos desafiantes, contribuir a equipos dinámicos y continuar perfeccionando mis habilidades técnicas mientras enfrento nuevos retos en el desarrollo de software.
 
 ## Sobre mí
 - 📚 Estudiante de DAW en [IES Luis Vives](https://www.iesluisvives.es/).
-- 🌱 Actualmente aprendiendo Nest.js.
+- 🌱 Actualmente profundizando en Laravel y Vue.
 - 📧 Puedes contactarme en [daniell.gm03@gmail.com](mailto:daniell.gm03@gmail.com).
 
 ## Proyectos Destacados
