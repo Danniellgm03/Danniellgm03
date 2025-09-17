@@ -8,7 +8,7 @@ Como proyecto de fin de grado, he desarrollado una aplicación completa, integra
 Me destaco por mi capacidad de adaptación, aprendizaje rápido y compromiso con la excelencia. Busco colaborar en proyectos desafiantes, contribuir a equipos dinámicos y continuar perfeccionando mis habilidades técnicas mientras enfrento nuevos retos en el desarrollo de software.
 
 ## Sobre mí
-- 📚 Estudiante de DAW en [IES Luis Vives](https://www.iesluisvives.es/).
+- 📚 Tecnico Superior en Desarrollo de Aplicaciones Web
 - 🌱 Actualmente profundizando en Laravel y Vue.
 - 📧 Puedes contactarme en [daniell.gm03@gmail.com](mailto:daniell.gm03@gmail.com).
 
